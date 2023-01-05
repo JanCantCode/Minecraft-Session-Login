@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "tk.jandev.minecraftsessionlogin.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "SessionMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
